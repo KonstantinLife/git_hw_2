@@ -1,2 +1,1 @@
-echo 'Start script'
-echo 'Step 2'
+Код из ветки CONFLICT
